@@ -22,7 +22,7 @@ const coords = {
   lng: -73.998590
 };
  
-const params = {v: '3.exp', key: 'AIzaSyB807L_jsJn15QankBKXqxcGqtYUvWCEWo'};
+const params = {v: '3.exp', key: '<API-KEY>'};
 
 const styles = () => ({
   padding: {
