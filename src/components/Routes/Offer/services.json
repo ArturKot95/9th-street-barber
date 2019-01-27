@@ -1,0 +1,44 @@
+{
+  "services": [
+    {
+      "name": "Regular Haircut",
+      "description": "There is really nothing regular about it. It is done in a fashion that can only be performed by a professionally trained barber. We refer to it as a classic haircut. We also offer a shampoo with all of our men haircuts.",
+      "price": 20
+    },
+    {
+      "name": "Scissor Cut",
+      "description": "Request this cut and you will be in awe of the level of skill to which our barbers and scissor experts perform. Your cut will be stylish to you personal specification with a look that is all yours. Long hair or short will benefit from a scissor cut.",
+      "price": 20
+    },
+    {
+      "name": "Layer Cut",
+      "description": "Layered cuts are only offered in a men’s styling shop of the highest level. We are specialists at this cut.",
+      "price": 20
+    },
+    {
+      "name": "Fades",
+      "description": "Fades make the impression that grooming is a very important to you. It is a look that needs to be maintained at frequent intervals. At Prestige Barber Shop we do fades of all types paying close attention to the smallest details. We can also keep your fade looking like the day you received it with a quick maintenance visit.",
+      "price": 20
+    },
+    {
+      "name": "Beard Trim",
+      "description": "The luxury beard shaping service – the full shaping & shave combines the relaxing elements of a luxury wet shave and the precision of a 9th Street Barber beard trim.",
+      "price": 20
+    },
+    {
+      "name": "Hairline Cleanup",
+      "description": "A well defined, clean, hairline is the signature or good grooming. Let us help you make the best impression.",
+      "price": 20
+    },
+    {
+      "name": "Royal Men's Shave",
+      "description": "A hot oil massage, hot towel treatment and a ultra close razor Men's shave will make any man feel renewed.",
+      "price": 20
+    },
+    {
+      "name": "Signature Men's Shaving",
+      "description": "Our specialty men's shave has all of the benefits of the Royal Men's shave but with the finest skin care treatment products available anywhere.",
+      "price": 20
+    }
+  ]
+}
